@@ -1,0 +1,6 @@
+name: TNE2GemsEconomy
+version: '${project.version}'
+main: com.ghostchu.tne2gemseconomy.TNE2GemsEconomy
+api-version: 1.13
+depend: [ TheNewEconomy, GemsEconomy ]
+description: Convert TNE data to GemsEconomy
